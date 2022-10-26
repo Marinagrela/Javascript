@@ -1,0 +1,12 @@
+body{
+    background-image: url(/img/soja.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.soja{
+    text-align: center;
+    margin-top: 15rem;
+    font-size:3rem;
+    
+}
